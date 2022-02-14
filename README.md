@@ -9,7 +9,7 @@ To write a python program to implement multivariate linear regression and predic
 <br>Import pandas as pd.
 
 ### Step2
-<br>Read the csv file.
+Read the csv file.
 
 ### Step3
 <br>Get the value of X and y variables.
